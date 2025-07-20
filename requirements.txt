@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+pandas
+openpyxl
+fpdf
+schedule
+python-dotenv
+serpapi
